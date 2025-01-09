@@ -15,7 +15,12 @@ This project analyzes Spotify song data using machine learning techniques to exp
 
 ### Tools and Libraries
 This project utilized the following Python libraries:
-- {", ".join(sorted(tools_and_libraries))}
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Regex
 
 ### Outcomes
 - Identified clusters of songs with similar characteristics.
